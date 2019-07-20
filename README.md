@@ -1,6 +1,6 @@
 # Name Entity Recognition With Stanford NLP NER Package
 
-<img src="Capture.PNG">
+<img src="Capture.JPG">
 
 In this short post, I will show how to get the entities in an article or any text documents using Natural language processing technique. We will use the powerful NER Package by Stanford NLP in this tutorial.
 
