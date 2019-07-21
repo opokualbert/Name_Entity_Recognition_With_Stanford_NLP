@@ -1,4 +1,4 @@
-# Name Entity Recognition With Stanford NLP NER Package
+# Named Entity Recognition With Stanford NLP NER Package
 
 <img src="Capture.JPG">
 
